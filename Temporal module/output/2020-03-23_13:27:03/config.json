@@ -1,0 +1,23 @@
+{
+    "batch_size": 64,
+    "beta1": 0.9,
+    "beta2": 0.999,
+    "d_d": 0,
+    "d_e": 0,
+    "datadir": "data",
+    "dataset": "tem_data.csv",
+    "device": 0,
+    "eps": 1e-08,
+    "in_dim": 1,
+    "lr": 0.01,
+    "n_epochs": 200,
+    "n_hidden": 100,
+    "n_inp": 336,
+    "n_layers": 1,
+    "n_out": 24,
+    "n_points": 30,
+    "out_dim": 1,
+    "outputdir": "output/2020-03-23_13:27:03",
+    "patience": 10,
+    "wd": 3e-05
+}
